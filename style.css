@@ -1,0 +1,25 @@
+div#wrapper{
+    min-height: 200px;
+    background-color: lightgray;
+}
+
+div#nav-div{
+    height: 50px;
+    background-color: black;
+    color: white;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+}
+div#content-div{
+    padding-top: 50px;
+    background-color: orange;
+}
+
+div#chat-box-div{
+    background-color: cyan;
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+}
